@@ -1,4 +1,4 @@
-# ADT-List-as-AVLTree-CircularList
+# ADT-List
 
 Two ways of an ADT List implementation built during the course of Data Structures.
 
