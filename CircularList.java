@@ -6,8 +6,7 @@
  *
  * An implementation of a circular list with key and info
  *
- * Yotam Hazan 205566870, username: yotamhazan
- * Kfir Grinberg  313434037, username: kfirgrinberg
+ * Kfir Grinberg 
  */
  
  public class CircularList{
